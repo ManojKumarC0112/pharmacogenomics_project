@@ -7,13 +7,6 @@ __pycache__/
 dist/
 build/
 
-# Model artifacts (large files)
-*.pkl
-
-# Data
-*.csv
-*.tsv
-
 # IDE
 .vscode/
 .idea/
